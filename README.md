@@ -95,3 +95,10 @@ Confira abaixo alguns prints da interface do formulário de matrícula Estrelas 
 
 Formulário com campos organizados e linguagem acessível para responsáveis preencherem os dados da criança.
 <img width="1866" height="923" alt="image" src="https://github.com/user-attachments/assets/245bc69c-2d5c-482b-9285-6b0adb873a48" />
+
+🎓 Área de Opções de Matrícula
+
+Nesta seção do formulário, os responsáveis podem selecionar o turno desejado (manhã ou tarde) e escolher entre diversas atividades esportivas extracurriculares disponíveis para a criança, como Futebol, Basquete, Natação, Yoga, Vôlei e Boxe.
+
+Essa etapa foi desenhada com ícones ilustrativos, botões amplos e linguagem simples, garantindo acessibilidade e facilidade de escolha.
+<img width="1869" height="921" alt="Captura de tela 2025-09-17 145905" src="https://github.com/user-attachments/assets/d4749cf0-a0b1-4064-aeea-f808f9fb4461" />
